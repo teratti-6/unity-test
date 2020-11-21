@@ -94,7 +94,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 201
-    height: 446
+    height: 486
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 16}
@@ -118,7 +118,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 446
+    y: 486
     width: 862
     height: 271
   m_MinSize: {x: 231, y: 271}
@@ -150,7 +150,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1440
-    height: 767
+    height: 808
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
@@ -216,11 +216,11 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 862
-    height: 717
+    height: 758
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 27
+  controlID: 41
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
